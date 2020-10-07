@@ -1,7 +1,7 @@
 # OCR-C (OCR-Code/OCR-A-Code)
 An alteration of OCR-A by John Sauter, to be better as a font for programming, adding things such as a slahed 0, changed lowercase L, and brackets.
 
-To be clear, this is just a project that I'm starting with only a little knowledge of making fonts. I don't have high hopes for it, but I just thought it might be cool to try since I've always loved OCR-A
+**To be clear, this is just a project that I'm starting with only a little knowledge of making fonts. I don't have high hopes for it, but I just thought it might be cool to try since I've always loved OCR-A**
 
 Plans:
 1. Expand Glyph Number - this is most important right now.
