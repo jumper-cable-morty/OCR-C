@@ -5,6 +5,6 @@ To be clear, this is just a project that I'm starting with only a little knowled
 
 Plans:
 1. Expand Glyph Number - this is most important right now.
-2. Improve upon already made glyphs to be more programmer friendly
+2. Improve upon already made glyphs to be more programmer friendly.
 3. Add (contextual) ligatures - hopefully I can find a tutorial 'cause I suck at fontforge.
 4. Find someone to help make this font because I'm not good at it as stated earlier.
